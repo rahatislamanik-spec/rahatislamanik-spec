@@ -1,6 +1,8 @@
 # Hi, I'm Rahat 👋
 
-I'm a Microsoft Certified IT & Cloud Professional focused on Azure Administration, Cloud Operations, and System Administration.
+I'm a Microsoft Certified Azure Fundamentals (AZ-900) and Microsoft 365 Fundamentals (MS-900) professional focused on Azure Administration, Cloud Operations, and System Administration.
+
+Currently preparing for Azure Administrator Associate (AZ-104).
 
 🎓 Currently studying Cloud Computing & Network Administration at George Brown College  
 ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)  
