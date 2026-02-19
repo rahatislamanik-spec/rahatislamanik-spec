@@ -1,50 +1,90 @@
 # Hi, I'm Rahat 👋
 
-I'm a Microsoft Certified Azure Fundamentals (AZ-900) and Microsoft 365 Fundamentals (MS-900) professional focused on Azure Administration, Cloud Operations, and System Administration.
+I'm a Microsoft Certified Azure and Microsoft 365 professional focused on Azure Administration, Cloud Operations, and System Administration.
 
-Currently preparing for Azure Administrator Associate (AZ-104).
+I have hands-on experience designing and deploying real-world cloud infrastructure using Microsoft Azure, including Virtual Machines, RBAC, Azure Monitor, Key Vault, ARM Templates, and secure networking.
 
-🎓 Currently studying Cloud Computing & Network Administration at George Brown College  
-☁️ Microsoft Certified: Azure Fundamentals (AZ-900)  
-📊 Microsoft Certified: Microsoft 365 Fundamentals (MS-900)  
-🚀 Preparing for Azure Administrator Associate (AZ-104)
-
-I enjoy building, configuring, and troubleshooting reliable infrastructure systems using Windows Server, Active Directory, networking fundamentals, and Microsoft Azure.
-
-I bring hands-on lab experience, real-world troubleshooting skills, and 5+ years of professional experience in business and customer-facing environments.
+I am currently preparing for the Microsoft Certified: Azure Administrator Associate (AZ-104) certification, with hands-on Azure projects already completed and published on my GitHub.
 
 ---
 
-## 🔧 What I'm Working On
+## 🎓 Education
 
-• Designing and documenting Windows Server & Active Directory enterprise labs  
-• Building Microsoft Azure projects aligned with AZ-104 (VMs, VNets, RBAC, Monitoring)  
-• Creating real-world IT infrastructure simulations  
-• Publishing recruiter-focused Azure projects on GitHub  
-
----
-
-## 🌱 Currently Learning
-
-• Azure Administration (AZ-104)
-• Azure Virtual Machines, Storage, Networking
-• Identity & Access Management (Azure AD, RBAC)
-• Azure Monitoring & Backup
-• PowerShell for Cloud Administration
+Cloud Computing & Network Administration  
+George Brown College, Toronto  
+Expected Graduation: September 2026  
 
 ---
 
 ## 🏆 Certifications
 
 ✔ Microsoft Certified: Azure Fundamentals (AZ-900)  
-✔ Microsoft Certified: Microsoft 365 Fundamentals (MS-900)  
-⏳ Microsoft Certified: Azure Administrator Associate (AZ-104) — In Progress  
+✔ Microsoft 365 Certified: Fundamentals (MS-900)  
+⏳ Microsoft Certified: Azure Administrator Associate (AZ-104) — Scheduled March 20, 2026  
 
 ---
 
-## 🎯 Career Objective
+## ☁️ Azure Projects
 
-Seeking opportunities as:
+### 🔹 Azure Cloud Infrastructure & Automation
+
+• Designed and deployed Azure cloud infrastructure using Azure Portal and Cloud Shell  
+• Provisioned Virtual Machines, Storage Accounts, and Networking components  
+• Configured Role-Based Access Control (RBAC)  
+• Implemented Azure Monitor for performance and health monitoring  
+• Used Azure Key Vault for secrets management  
+• Deployed Infrastructure using ARM Templates  
+• Configured Network Security Groups (NSGs)  
+• Monitored usage using Azure Cost Management  
+
+Technologies: Azure Portal, ARM Templates, Azure Monitor, RBAC, Azure Key Vault, NSGs
+
+---
+
+### 🔹 Microsoft 365 Identity, Messaging & Collaboration Administration
+
+• Managed Microsoft Entra ID users and licenses  
+• Configured Exchange Online mail flow  
+• Deployed Microsoft 365 Apps  
+• Managed SharePoint and OneDrive policies  
+• Automated user management using PowerShell  
+
+Technologies: Microsoft Entra ID, Exchange Online, Microsoft 365 Admin Center, PowerShell
+
+---
+
+## 🔧 Technical Skills
+
+Cloud Platforms:  
+Microsoft Azure, Microsoft 365  
+
+Cloud Administration:  
+Virtual Machines, Azure AD, RBAC, Azure Monitor, Azure Networking  
+
+System Administration:  
+Windows Server, Active Directory  
+
+Automation:  
+PowerShell, ARM Templates  
+
+Networking:  
+TCP/IP, DNS, Network Security Groups  
+
+---
+
+## 🌱 Currently Learning
+
+• Azure Virtual Machines Administration  
+• Azure Networking  
+• Azure Storage and Backup  
+• Identity & Access Management (RBAC, Azure AD)  
+• Azure Monitoring  
+
+---
+
+## 🚀 Career Objective
+
+Actively seeking opportunities as:
 
 • Azure Administrator  
 • Cloud Support Associate  
@@ -55,5 +95,6 @@ Seeking opportunities as:
 
 ## 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/rahat-islam-7120a4230/?profileId=ACoAADmtiP4BLRZyXU9VAuM2ifcFo1BxWLRfN-w
-Email: rahatislamanik@gmail.com
+LinkedIn: https://www.linkedin.com/in/rahat-islam-7120a4230/  
+Email: rahatislamanik@gmail.com  
+
