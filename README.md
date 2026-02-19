@@ -53,5 +53,5 @@ Seeking opportunities as:
 
 ## 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/in/rahat-islam  
+LinkedIn: https://www.linkedin.com/in/rahat-islam-7120a4230/?profileId=ACoAADmtiP4BLRZyXU9VAuM2ifcFo1BxWLRfN-w
 Email: rahatislamanik@gmail.com
