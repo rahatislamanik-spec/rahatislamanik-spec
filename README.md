@@ -1,100 +1,131 @@
-# Hi, I'm Rahat 👋
+Hi, I’m Rahat 👋
 
-I'm a Microsoft Certified Azure and Microsoft 365 professional focused on Azure Administration, Cloud Operations, and System Administration.
+IT Support Specialist and Cloud Computing graduate from George Brown Polytechnic (GPA 3.55) with 6+ years of hands-on experience supporting multi-site IT environments across professional services, retail operations, and organizational infrastructure.
 
-I have hands-on experience designing and deploying real-world cloud infrastructure using Microsoft Azure, including Virtual Machines, RBAC, Azure Monitor, Key Vault, ARM Templates, and secure networking.
+Experienced in Microsoft Azure, Microsoft 365, Windows Server, Microsoft Entra ID, networking, endpoint management, and cloud infrastructure operations. Proven track record maintaining 99%+ uptime, resolving infrastructure and connectivity incidents, managing user identity and access, and supporting hybrid environments across multiple locations.
 
-I am currently preparing for the Microsoft Certified: Azure Administrator Associate (AZ-104) certification, with hands-on Azure projects already completed and published on my GitHub.
-
----
-
-## 🎓 Education
-
-Cloud Computing & Network Administration  
-George Brown College, Toronto  
-Expected Graduation: September 2026  
+Currently expanding hands-on expertise in Azure Administration, cloud operations, networking, systems administration, and AI-assisted IT workflows.
 
 ---
 
-## 🏆 Certifications
+🎓 Education
+
+Postgraduate Diploma — Cloud Computing & Network Administration  
+
+George Brown Polytechnic, Toronto  
+
+Graduated: May 2026  
+
+GPA: 3.55 / 4.0
+
+---
+
+🏆 Certifications
 
 ✔ Microsoft Certified: Azure Fundamentals (AZ-900)  
+
 ✔ Microsoft 365 Certified: Fundamentals (MS-900)  
-⏳ Microsoft Certified: Azure Administrator Associate (AZ-104) — Scheduled March 20, 2026  
+
+✔ Cisco Networking Essentials  
+
+✔ Claude with Amazon Bedrock — Anthropic  
+
+✔ Building with the Claude API — Anthropic  
+
+✔ Introduction to MCP — Anthropic  
+
+✔ AI Fluency: Framework & Foundations — Anthropic  
+
+✔ Claude 101 — Anthropic  
+
+⏳ Microsoft Certified: Azure Administrator Associate (AZ-104) — In Progress
 
 ---
 
-## ☁️ Azure Projects
+☁️ Azure Projects
 
-### 🔹 Azure Cloud Infrastructure & Automation
+🔹 Azure Cloud Infrastructure & Automation
 
-• Designed and deployed Azure cloud infrastructure using Azure Portal and Cloud Shell  
-• Provisioned Virtual Machines, Storage Accounts, and Networking components  
-• Configured Role-Based Access Control (RBAC)  
-• Implemented Azure Monitor for performance and health monitoring  
-• Used Azure Key Vault for secrets management  
-• Deployed Infrastructure using ARM Templates  
-• Configured Network Security Groups (NSGs)  
-• Monitored usage using Azure Cost Management  
+- Designed and deployed Azure infrastructure using Azure Portal and Cloud Shell
 
-Technologies: Azure Portal, ARM Templates, Azure Monitor, RBAC, Azure Key Vault, NSGs
+- Configured Virtual Machines, Storage Accounts, VNets, NSGs, and RBAC
 
----
+- Implemented Azure Monitor for infrastructure visibility and monitoring
 
-### 🔹 Microsoft 365 Identity, Messaging & Collaboration Administration
+- Used Azure Key Vault for secure secrets management
 
-• Managed Microsoft Entra ID users and licenses  
-• Configured Exchange Online mail flow  
-• Deployed Microsoft 365 Apps  
-• Managed SharePoint and OneDrive policies  
-• Automated user management using PowerShell  
+- Deployed infrastructure using ARM Templates
 
-Technologies: Microsoft Entra ID, Exchange Online, Microsoft 365 Admin Center, PowerShell
+- Configured backup, governance, and cost monitoring features
+
+Technologies: Azure Portal · Azure Monitor · Azure Key Vault · ARM Templates · RBAC · NSGs · Azure Networking
 
 ---
 
-## 🔧 Technical Skills
+🔹 Microsoft 365 Identity, Messaging & Collaboration Administration
 
-Cloud Platforms:  
-Microsoft Azure, Microsoft 365  
+- Managed Microsoft Entra ID users and license provisioning
 
-Cloud Administration:  
-Virtual Machines, Azure AD, RBAC, Azure Monitor, Azure Networking  
+- Configured Exchange Online mail flow and Microsoft 365 services
 
-System Administration:  
-Windows Server, Active Directory  
+- Managed SharePoint and OneDrive collaboration policies
 
-Automation:  
-PowerShell, ARM Templates  
+- Automated administrative tasks using PowerShell
 
-Networking:  
-TCP/IP, DNS, Network Security Groups  
+Technologies: Microsoft Entra ID · Exchange Online · Microsoft 365 · PowerShell · SharePoint Online
 
 ---
 
-## 🌱 Currently Learning
+🔧 Technical Skills
 
-• Azure Virtual Machines Administration  
-• Azure Networking  
-• Azure Storage and Backup  
-• Identity & Access Management (RBAC, Azure AD)  
-• Azure Monitoring  
+Cloud & Infrastructure  
+
+Microsoft Azure · Microsoft 365 · Azure Networking · Azure Monitor · Azure Storage · RBAC
+
+Systems Administration  
+
+Windows Server · Active Directory · Group Policy · Linux Administration · Endpoint Management
+
+Networking  
+
+TCP/IP · DNS · DHCP · VLANs · VPN · LAN/WAN · Network Troubleshooting · NSGs
+
+Security & Identity  
+
+Microsoft Entra ID · MFA · Conditional Access · Access Controls · Microsoft Defender
+
+Automation & Tools  
+
+PowerShell · Azure CLI · ARM Templates · GitHub · Claude API · Amazon Bedrock
 
 ---
 
-## 🚀 Career Objective
+🌱 Currently Learning
 
-Actively seeking opportunities as:
+- Azure Administration (AZ-104)
 
-• Azure Administrator  
-• Cloud Support Associate  
-• IT Support Specialist  
-• System Administrator  
+- Azure Networking & Security
+
+- Infrastructure Monitoring & Governance
+
+- AWS Cloud Fundamentals
+
+- AI-assisted IT workflows
+
+- Cloud automation & infrastructure concepts
 
 ---
 
-## 📫 Connect With Me
+🚀 Career Interests
 
-LinkedIn: https://www.linkedin.com/in/rahat-islam-7120a4230/  
-Email: rahatislamanik@gmail.com  
+- IT Support Specialist
 
+- Systems Administrator
+
+- Cloud Support Associate
+
+- Infrastructure & Cloud Operations
+
+- Azure Administration
+
+- Endpoint & Identity Management
