@@ -1,27 +1,16 @@
-# Hi, I’m Rahat 👋
+# Hi, I'm Rahat 👋
 
 Cloud & Infrastructure Operations professional and Cloud Computing graduate from George Brown Polytechnic (GPA 3.55) with 6+ years of experience supporting multi-site IT environments across professional services, retail operations, and organizational infrastructure.
 
 My work focuses on cloud infrastructure, systems administration, IT operations, workflow automation, and modern Microsoft cloud environments. I enjoy building systems that are technically functional, operationally practical, scalable, and secure.
 
-I have experience working with:
-• Microsoft Azure  
-• Microsoft 365  
-• Windows Server  
-• Microsoft Entra ID  
-• Networking & infrastructure operations  
-• Azure networking, RBAC, monitoring & identity management  
-• PowerShell automation & Microsoft 365 workflow orchestration  
-
-I enjoy troubleshooting infrastructure issues, improving operational workflows, and building scalable systems that support real-world business environments.
-
 ━━━━━━━━━━━━━━━━━━
 
 ## 🎓 Education
 
-**Postgraduate Diploma — Cloud Computing & Network Administration**  
-George Brown Polytechnic, Toronto  
-Graduated: May 2026  
+**Postgraduate Diploma — Cloud Computing & Network Administration**
+George Brown Polytechnic, Toronto
+Graduated: May 2026
 GPA: 3.55 / 4.0
 
 ━━━━━━━━━━━━━━━━━━
@@ -29,122 +18,99 @@ GPA: 3.55 / 4.0
 ## 🏆 Certifications
 
 ### Microsoft & Networking
-✔ Microsoft Certified: Azure Fundamentals (AZ-900)  
-✔ Microsoft 365 Certified: Fundamentals (MS-900)  
-✔ Cisco Networking Essentials  
+✔ Microsoft Certified: Azure Fundamentals (AZ-900)
+✔ Microsoft 365 Certified: Fundamentals (MS-900)
+✔ Cisco Networking Essentials
 
 ### AI & Automation
-✔ Claude with Amazon Bedrock — Anthropic  
-✔ Building with the Claude API — Anthropic  
-✔ Introduction to MCP — Anthropic  
-✔ AI Fluency: Framework & Foundations — Anthropic  
-✔ Claude 101 — Anthropic  
+✔ Claude with Amazon Bedrock — Anthropic
+✔ Building with the Claude API — Anthropic
+✔ Introduction to MCP — Anthropic
+✔ AI Fluency: Framework & Foundations — Anthropic
+✔ Claude 101 — Anthropic
 
 ### Currently In Progress
-⏳ Microsoft Certified: Azure Administrator Associate (AZ-104)  
+⏳ Microsoft Certified: Azure Administrator Associate (AZ-104)
 ⏳ Microsoft Certified: Security, Compliance & Identity Fundamentals (SC-900)
 
 ━━━━━━━━━━━━━━━━━━
 
 ## ☁️ Featured Projects
 
-### 🔹 Project Northstar — AI Career Intelligence Platform
-AI-assisted career intelligence platform exploring ATS analysis, automation workflows, opportunity scoring, and cloud/IT job intelligence.
+### 🔹 Meridian Institute — Microsoft 365 Security Operations Lab
+Two-phase Microsoft 365 enterprise simulation built in a real developer tenant — covering identity governance, Conditional Access (8 policies), Intune endpoint management, Purview DLP, and PowerShell automation across 27 managed users and 4 admin centers.
 
-**Live Site:**  
-https://rahatislamanik-spec.github.io/Project-Northstar/
+Live Site: https://rahatislamanik-spec.github.io/Meridian-Institute-M365-Lab/phase-1/
 
 ---
 
-### 🔹 Project Arabesque — Microsoft 365 IT Automation System
-End-to-end onboarding and offboarding automation platform built using Microsoft 365, SharePoint Online, Microsoft Forms, and Power Automate.
+### 🔹 Project Arabesque — NBS IT Automation System
+End-to-end IT onboarding and offboarding automation system built for Canada's National Ballet School — entirely on Microsoft 365. No new software. No vendor contracts. Three SharePoint systems, two automated cloud flows, four email automations, zero manual steps.
 
-**Live Site:**  
-https://rahatislamanik-spec.github.io/Project-Arabesque/
+Live Site: https://rahatislamanik-spec.github.io/Project-Arabesque/
+
+---
+
+### 🔹 TechSolutions Inc. — Microsoft 365 Enterprise Deployment
+Complete M365 deployment for a 300-employee Canadian organization — identity, security, DLP, Insider Risk Management, Adaptive Protection, Viva Engage, and Power Automate automation, all configured and verified in a live tenant.
+
+Live Site: https://rahatislamanik-spec.github.io/TechSolutions-Microsoft365/
 
 ---
 
 ### 🔹 TechNova Inc. — Azure Cloud Infrastructure
-Enterprise-style Azure infrastructure project simulating an on-premise to Azure migration using VNets, NSGs, Azure Bastion, RBAC, Azure Monitor, Key Vault, Backup, and governance controls.
+Hub-and-spoke Azure infrastructure built from a blank subscription — no templates, no guided labs, no safety net. VNets, Bastion, RBAC, Load Balancer, Key Vault, and Azure Backup across 16+ services. Zero public IPs on production VMs. Total cost: ~$40.
 
-**Live Site:**  
-https://rahatislamanik-spec.github.io/TechNova-Azure-Infrastructure/
-
----
-
-### 🔹 Café Nimbus — AWS Infrastructure Case Study
-AWS cloud infrastructure and scaling architecture case study focused on deployment planning, networking, scalability, and business continuity concepts.
-
-**Live Site:**  
-https://rahatislamanik-spec.github.io/Cafe-Nimbus/
+Live Site: https://rahatislamanik-spec.github.io/TechNova-Azure-Infrastructure/
 
 ---
 
-### 🔹 TechSolutions — Microsoft 365 Administration
-Microsoft 365 administration environment covering Exchange Online, SharePoint, Microsoft Entra ID, licensing, user lifecycle management, and PowerShell automation.
+### 🔹 Café Nimbus — AWS Cloud Infrastructure Case Study
+Five-phase AWS architectural engagement — from one broken server to a self-operating cloud. S3, EC2/LAMP, custom VPC, ALB + Auto Scaling (Multi-AZ), and Lambda + EventBridge serverless automation across 13 services. Zero manual steps at end state.
 
-**Live Site:**  
-https://rahatislamanik-spec.github.io/TechSolutions-Microsoft365/
+Live Site: https://rahatislamanik-spec.github.io/Cafe-Nimbus/
 
 ---
 
 ### 🔹 anik.local — Windows Server 2022 Enterprise Domain
-Enterprise Windows Server environment featuring Active Directory, DNS, DHCP, Group Policy, workstation integration, and centralized identity management.
+Full enterprise Windows Server domain built inside UTM on Apple Silicon — no rack, no x86 hardware. AD DS, multi-site DHCP, Group Policy, file services, and workstation integration, documented across 107+ screenshots.
 
-**Live Site:**  
-https://rahatislamanik-spec.github.io/Windows-Server-2022-Enterprise-Domain/
+Live Site: https://rahatislamanik-spec.github.io/Windows-Server-2022-Enterprise-Domain/
 
 ---
 
-### 🔹 Enterprise IT HealthCheck Toolkit
-Enterprise-style IT diagnostics and operational monitoring toolkit focused on system visibility, network validation, troubleshooting, and infrastructure reporting.
+### 🔹 Project Northstar — AI Career Intelligence Platform
+AI-assisted career intelligence platform exploring ATS analysis, automation workflows, opportunity scoring, and cloud/IT job intelligence.
 
-**Live Site:**  
-https://rahatislamanik-spec.github.io/Enterprise-IT-HealthCheck-Toolkit/
+Live Site: https://rahatislamanik-spec.github.io/Project-Northstar/
 
 ━━━━━━━━━━━━━━━━━━
 
 ## 🔧 Technical Skills
 
-### Cloud & Infrastructure
+**Cloud & Infrastructure**
 Microsoft Azure · Microsoft 365 · Azure Networking · Azure Monitor · Azure Storage · RBAC · AWS Infrastructure · EC2 · VPC · S3 · Auto Scaling · CloudWatch · IAM
 
-### Systems Administration
+**Systems Administration**
 Windows Server · Active Directory · Group Policy · Linux Administration · Endpoint Management
 
-### Networking
+**Networking**
 TCP/IP · DNS · DHCP · VLANs · VPN · LAN/WAN · Network Troubleshooting · NSGs
 
-### Security & Identity
-Microsoft Entra ID · MFA · Conditional Access · Access Controls · Microsoft Defender
+**Security & Identity**
+Microsoft Entra ID · MFA · Conditional Access · Access Controls · Microsoft Defender · Microsoft Purview
 
-### Automation & Tools
+**Automation & Tools**
 PowerShell · Azure CLI · ARM Templates · GitHub · Power Automate · Claude API · Amazon Bedrock
-
-━━━━━━━━━━━━━━━━━━
-
-## 🌱 Currently Learning
-
-• Azure Administration (AZ-104)  
-• Microsoft Security, Compliance & Identity Fundamentals (SC-900)  
-• Azure Networking & Security  
-• Infrastructure Monitoring & Governance  
-• AWS Cloud Infrastructure  
-• AI-assisted IT workflows  
-• Cloud automation & infrastructure concepts  
 
 ━━━━━━━━━━━━━━━━━━
 
 ## 🚀 Career Interests
 
-• Cloud & Infrastructure Operations  
-• Azure Administration  
-• Microsoft 365 & Identity Management  
-• IT Automation & Workflow Design  
-• Systems Administration  
-• Cloud Support & Operational Engineering  
-• Endpoint & Infrastructure Management  
-
-━━━━━━━━━━━━━━━━━━
-
-I enjoy building systems that combine infrastructure, automation, and operational efficiency in practical and scalable ways while continuing to grow deeper into cloud administration and modern IT operations.
+- Cloud & Infrastructure Operations
+- Azure Administration
+- Microsoft 365 & Identity Management
+- IT Automation & Workflow Design
+- Systems Administration
+- Cloud Support & Operational Engineering
+- Endpoint & Infrastructure Management
