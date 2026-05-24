@@ -37,6 +37,20 @@ GPA: 3.55 / 4.0
 
 ## ☁️ Featured Projects
 
+### 🔹 Enterprise IT Security Operations Toolkit
+Multi-phase Microsoft 365 security operations platform — 23 PowerShell scripts across 3 operational phases covering identity governance, endpoint security, Defender operations, and compliance reporting via Microsoft Graph. Real M365 E3/E5 lab execution with live CSV evidence. Secure Score: 146.26 / 204.
+
+Live Site: https://rahatislamanik-spec.github.io/Enterprise-IT-Security-Operations-Toolkit/
+
+---
+
+### 🔹 Aurelian Financial Group — Enterprise Network Case Study
+Cisco Packet Tracer enterprise network build: 4-VLAN segmentation, router-on-a-stick, DHCP relay, ACLs, and SSH hardening — with 8 real issues diagnosed and resolved in STAR format. Every misconfiguration documented, not just the clean final state.
+
+Live Site: https://rahatislamanik-spec.github.io/Aurelian-Enterprise-Network-Case-Study/
+
+---
+
 ### 🔹 Meridian Institute — Microsoft 365 Security Operations Lab
 Two-phase Microsoft 365 enterprise simulation built in a real developer tenant — covering identity governance, Conditional Access (8 policies), Intune endpoint management, Purview DLP, and PowerShell automation across 27 managed users and 4 admin centers.
 
