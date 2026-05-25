@@ -51,6 +51,13 @@ Live Site: https://rahatislamanik-spec.github.io/Aurelian-Enterprise-Network-Cas
 
 ---
 
+### 🔹 Enterprise IT Network Diagnostics Toolkit
+Multi-script PowerShell network diagnostics platform — 9 scripts covering DNS resolution, connectivity testing, port scanning, Wi-Fi analysis, SSL/TLS certificate checks, latency baseline, rogue device detection, and ARP security auditing. All scripts generate professional HTML reports. 27 real diagnostic files collected and sanitized from a live network environment.
+
+Live Site: https://rahatislamanik-spec.github.io/Enterprise-IT-Network-Diagnostics-Toolkit/
+
+---
+
 ### 🔹 Meridian Institute — Microsoft 365 Security Operations Lab
 Two-phase Microsoft 365 enterprise simulation built in a real developer tenant — covering identity governance, Conditional Access (8 policies), Intune endpoint management, Purview DLP, and PowerShell automation across 27 managed users and 4 admin centers.
 
