@@ -56,7 +56,7 @@ Live Site: https://rahatislamanik-spec.github.io/Enterprise-IT-Network-Diagnosti
 ---
 
 ### 🔹 Meridian Institute — Microsoft 365 Security Operations Lab
-Two-phase Microsoft 365 enterprise simulation built in a real developer tenant — covering identity governance, Conditional Access (8 policies), Intune endpoint management, Purview DLP, and PowerShell automation across 27 managed users and 4 admin centers.
+Three-phase Microsoft 365 enterprise simulation built in a real developer tenant — covering identity governance, Conditional Access (8 policies), Intune endpoint management, Purview DLP, and PowerShell automation across 27 managed users and 4 admin centers.
 
 Live Site: https://rahatislamanik-spec.github.io/Meridian-Institute-M365-Lab/phase-1/
 
