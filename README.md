@@ -42,7 +42,7 @@ Simon Fraser University, Burnaby BC
 ## ☁️ Featured Projects
 
 ### 🔹 Enterprise IT Security Operations Toolkit
-Multi-phase Microsoft 365 security operations platform — 30+ PowerShell scripts across 7 operational phases covering identity governance, endpoint security, Defender operations, BYOD Conditional Access governance, and compliance reporting via Microsoft Graph. Real M365 E3/E5 lab execution with live CSV evidence. Secure Score: 146.26 / 204.
+Multi-phase Microsoft 365 security operations platform — 30+ PowerShell scripts across 8 operational phases covering identity governance, endpoint security, Defender operations, BYOD Conditional Access governance, and compliance reporting via Microsoft Graph. Real M365 E3/E5 lab execution with live CSV evidence. Secure Score: 146.26 / 204.
 
 Live Site: https://rahatislamanik-spec.github.io/Enterprise-IT-Security-Operations-Toolkit/
 
