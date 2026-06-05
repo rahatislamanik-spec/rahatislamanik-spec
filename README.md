@@ -1,6 +1,7 @@
-# Hi, I'm Rahat 👋
 
-Hi, I’m Rahat — an IT Systems Administrator focused on Microsoft 365, Identity (Entra ID), and cloud infrastructure.
+
+Hi, I'm Rahat 👋 — an IT Systems Administrator focused on Microsoft 365, Identity (Entra ID), and cloud infrastructure.
+
 
 I specialize in building secure, scalable environments across Microsoft 365, Azure, and hybrid identity systems. My work combines hands-on administration with automation, using PowerShell and Microsoft Graph to reduce manual effort and improve operational reliability.
 
