@@ -1,8 +1,26 @@
 # Hi, I'm Rahat 👋
 
-IT Systems Administrator and Cloud Computing graduate from George Brown Polytechnic (GPA 3.55, May 2026) with 6+ years of experience owning complete IT environments across multi-site operations — 95%+ uptime, 35–40 tickets weekly at 95%+ first-contact resolution, and 40% reduction in manual IT overhead through PowerShell and Microsoft Graph API automation.
+Hi, I’m Rahat — an IT Systems Administrator focused on Microsoft 365, Identity (Entra ID), and cloud infrastructure.
 
-My work focuses on Microsoft 365 administration, identity and access management (Entra ID), endpoint security (Intune + Defender), cloud infrastructure (Azure + AWS), and AI-enabled IT automation. I build systems that are technically sound, operationally practical, and secure.
+I specialize in building secure, scalable environments across Microsoft 365, Azure, and hybrid identity systems. My work combines hands-on administration with automation, using PowerShell and Microsoft Graph to reduce manual effort and improve operational reliability.
+
+I’ve managed complete IT environments across multi-site operations, maintaining 95%+ uptime, resolving 35–40 weekly tickets with high first-contact resolution, and reducing manual workload by over 40% through automation.
+
+My core focus areas include:
+
+Microsoft 365 and Entra ID (Conditional Access, MFA, Zero Trust)
+
+Endpoint management and security (Intune, Defender)
+
+Cloud infrastructure (Azure, AWS)
+
+IT automation (PowerShell, Graph API, AI-assisted workflows)
+
+I build projects that simulate real enterprise environments — not just configurations, but full operational systems with security, compliance, and automation built in. My portfolio includes Microsoft 365 security operations platforms, identity governance toolkits, and end-to-end cloud infrastructure deployments.
+
+Currently, I’m deepening my expertise in Azure administration and identity security (AZ-104, SC-900 in progress), with a long-term focus on cloud security and Zero Trust architecture.
+
+Based in Toronto, open to opportunities in IT Systems Administration, Microsoft 365, and cloud infrastructure roles.
 
 ━━━━━━━━━━━━━━━━━━
 
