@@ -126,7 +126,7 @@ Live Site: https://rahatislamanik-spec.github.io/Windows-Server-2022-Enterprise-
 ### 🔹 Project Northstar — AI Career Intelligence Platform
 AI-assisted career intelligence platform exploring ATS analysis, automation workflows, opportunity scoring, and cloud/IT job intelligence.
 
-Live Site: https://rahatislamanik-spec.github.io/Project-Northstar/
+Status: Not currently published
 
 ━━━━━━━━━━━━━━━━━━
 
